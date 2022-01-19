@@ -24,7 +24,7 @@ function App() {
           Learn React
         </a>
         <div>
-          <TelegramLoginButton dataOnauth={testbotbot} botName="testbotbot" />
+          <TelegramLoginButton dataOnauth={testbotbot} botName="danhsucowboybot" />
         </div>
       </header>
     </div>
@@ -32,3 +32,4 @@ function App() {
 }
 
 export default App;
+
